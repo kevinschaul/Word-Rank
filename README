@@ -1,0 +1,16 @@
+Work Rank is a short python script that ranks the words
+of a text file according to their frequency. It puts the
+words in a dictionary; each word is the key, and the
+frequency is the value. It then prints the dictionary in
+ascending order of frequency.
+
+Usage example:
+
+$ python wordRank.py test.txt
+
+test: 1
+text: 1
+a: 2
+document: 2
+random: 2
+is: 3
